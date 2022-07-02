@@ -1,2 +1,3 @@
 # React_learn
-记录一下自己的 React 学习路程和感悟
+## 阅读笔记系列
+[01.《轻松学会React钩子：以 useEffect 为例》阅读笔记](https://github.com/xieziihang/React_learn/issues/1)
