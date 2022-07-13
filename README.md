@@ -1,5 +1,5 @@
 # React_learn
-## 尚硅谷 React 笔记
-[React Router6](https://github.com/xieziihang/React_learn/issues/2)
-## 阅读笔记系列
-[01.《轻松学会React钩子：以 useEffect 为例》阅读笔记](https://github.com/xieziihang/React_learn/issues/1)
+## 1. 尚硅谷 React 笔记
+[1.1 ReactRouter6 常用组件 和 hooks](https://github.com/xieziihang/React_learn/issues/2)
+## 2. 阅读笔记系列
+[2.1《轻松学会React钩子：以 useEffect 为例》阅读笔记](https://github.com/xieziihang/React_learn/issues/1)
